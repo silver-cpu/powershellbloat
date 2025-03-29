@@ -1,4 +1,5 @@
 # powershellbloat
+UNINSTALLS THE FOLLOWING:
 Get-AppxPackage *Microsoft.3dbuilder* | Remove-AppxPackage
 Get-AppxPackage *AdobeSystemsIncorporated.AdobePhotoshopExpress* | Remove-AppxPackage
 Get-AppxPackage *Microsoft.WindowsAlarms* | Remove-AppxPackage
